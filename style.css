@@ -41,5 +41,26 @@ display: flex;
     display: flex;
     flex-direction: column;
     gap: 42px;
-    
+}
+
+.header, 
+.intro {
+    background-image: url(./src/start-screen-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about-container{
+    padding: 80px 0 100px 0;
+    display: flex;
+    gap: 120px;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-text-container {
+    width: 430px;
+    display: flex;
+    flex-direction: column;
+    gap: 42px;
 }

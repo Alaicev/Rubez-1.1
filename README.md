@@ -12,3 +12,12 @@
 ## Ссылка на фигму
 
     https://www.figma.com/file/u21j7E5mpsQ8wn6TIV6U7O/shelter?type=design&t=uML7IRFjEr8TaEou-6
+
+
+## Курсы 
+
+    https://code-basics.com/ru/languages/css
+
+    https://code-basics.com/ru/languages/html
+
+    

@@ -86,18 +86,18 @@ display: flex;
     gap: 120px;
 }
 
-.heil-image{
-    width: 60px;
-    height: 50px;
-    border: 1px solid
-}
-
 .help-card {
     display: flex;
     flex-direction: column;
     gap: 30px;
     align-items: center;
     justify-content: center;
+}
+
+.heil-image{
+    width: 60px;
+    height: 50px;
+    border: 1px solid
 }
 
 
